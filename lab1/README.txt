@@ -2,7 +2,7 @@ For this lab, your goal is to connect to all switches in your topology via eAPI,
 
 1) Using the python requests library, connect to each switch in your topology and run commands, except for CVX. 
    Management IPs for each switch can be found from CVP device listing.
-2) For each switch, print the hostname, serial number, and IP address.
+2) For each switch, print the hostname, serial number, and system MAC address.
 
 Example:
 
